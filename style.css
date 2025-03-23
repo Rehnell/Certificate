@@ -70,7 +70,7 @@ body {
 .header li a:hover,
 .header .menu-btn:hover {
   background-color: transparent;
-  color: bisque;
+  color: purple;
 }
 .header .logo {
   display: block;
