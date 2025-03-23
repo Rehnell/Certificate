@@ -66,11 +66,13 @@ body {
   border-right: 1px solid transparent;
   text-decoration: none;
   color: black;
+    -webkit-text-stroke:1.1px white;
+    -webkit-text-fill-color: black;
 }
 .header li a:hover,
 .header .menu-btn:hover {
   background-color: transparent;
-  color: purple;
+  color: white;
 }
 .header .logo {
   display: block;
