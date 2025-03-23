@@ -20,7 +20,6 @@ body {
     height: 100%;
     margin: 0;
     font-family: "Poppins";
-    background-color: rgb(37, 172, 185);
   }
 
 /* Logo */
@@ -188,6 +187,7 @@ body {
     /* Section One */
   
   .box-one {
+    background-color: background-color: rgb(37, 172, 185);
     height: 500px;
     max-width: 100%;
   }
