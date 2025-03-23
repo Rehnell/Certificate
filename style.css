@@ -434,7 +434,7 @@ body {
   @media only screen and (max-width: 384px) {
     .footer {
       position: fixed-bottom;
-      width: 100%
+      width: 100%;
       bottom: 0;
     }
   }
