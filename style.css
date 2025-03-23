@@ -238,6 +238,7 @@ body {
   /* Footer */
   
   .footer {
+    position: absolute;
     height: 70px;
     width: 100%;
     display: flex;
@@ -245,9 +246,8 @@ body {
     color: white;
     text-align: center;
     bottom: 0;
-    position: absolute;
-  
   }
+
   .footertext {
     margin-left: 40px;
     margin-top: 20px;
@@ -430,7 +430,6 @@ body {
   
   @media only screen and (max-width: 384px) {
     .footer {
-      position: fixed bottom;
       bottom: 0;
     }
   }
