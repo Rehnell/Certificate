@@ -415,8 +415,7 @@ body {
   
   @media only screen and (max-width: 384px) {
     .box-two {
-      height: 270px;
-      background-color: black;
+      display: none;
     }
   }
   
