@@ -221,10 +221,6 @@ body {
     justify-content: space-between; /* Distributes elements evenly */
   }
   
-  .item {
-    flex: 1 1 300px; /* Ensures each item is at least 300px wide */
-    margin: 10px;
-  }
 
  /* Section Two */
 
