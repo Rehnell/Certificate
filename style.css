@@ -239,7 +239,7 @@ body {
   /* Footer */
   
   .footer {
-    position: relative;
+    position: fixed;
     height: 70px;
     width: 100%;
     display: flex;
