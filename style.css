@@ -421,8 +421,9 @@ body {
   }
   
   @media only screen and (max-width: 384px) {
-  .christpic {
-    width: 384px;
+  .certificatepic {
+    height: 300
+    width: 200px;
     overflow-x: hidden;
     }
   }
