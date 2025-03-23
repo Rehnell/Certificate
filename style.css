@@ -29,7 +29,7 @@ body {
     z-index: 4;
     margin-top: 20px;
     margin-left: 20px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0);
   }
 
   /* Navigation */
