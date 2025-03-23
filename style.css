@@ -33,7 +33,7 @@ body {
   }
 
 .stroke-text {
-    -webkit-text-stroke: 5px black;
+    -webkit-text-stroke:5px black;
     -webkit-text-fill-color: white;
 }
 
