@@ -190,7 +190,7 @@ body {
     /* Section One */
   
   .box-one {
-    height: 300px;
+    height: 500px;
     max-width: 100%;
   }
   
@@ -415,7 +415,7 @@ body {
   
   @media only screen and (max-width: 384px) {
     .box-one {
-      height: 300px;
+      height: 200px;
     }
   }
   
