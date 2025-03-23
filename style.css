@@ -29,8 +29,7 @@ body {
     z-index: 4;
     margin-top: 20px;
     margin-left: 20px;
-    border: 1px;
-    border-color: black;
+    border: 2px solid black;
   }
 
   /* Navigation */
