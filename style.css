@@ -1,4 +1,4 @@
-/* Google Fonts Import */
+;/* Google Fonts Import */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
 /* Root */
@@ -16,7 +16,7 @@
   /* Body */
 
 body {
-    height: 100%
+    height: 100%;
     margin: 0;
     font-family: "Poppins";
     background-color: rgb(37, 172, 185);
