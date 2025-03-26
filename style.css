@@ -44,7 +44,7 @@ body {
   background-color: transparent;
   height: 100px;
   box-shadow: none;
-  position: relative;
+  position: absolute;
   width: 100%;
   z-index: 1000;
 }
