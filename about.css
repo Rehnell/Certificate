@@ -103,7 +103,7 @@ body {
   user-select: none;
 }
 .header .menu-icon .navicon {
-  background: #FFFF;
+  background: black;
   display: block;
   height: 2px;
   position: relative;
@@ -113,7 +113,7 @@ body {
 }
 .header .menu-icon .navicon:before,
 .header .menu-icon .navicon:after {
-  background: white;
+  background: black;
   content: '';
   display: block;
   height: 100%;
