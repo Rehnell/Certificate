@@ -24,7 +24,7 @@ body {
   }
 
 /* Logo */
-#logo {
+.logo {
     font-family: "Poppins";
     font-size: 2.5em;
     font-weight: bold;
