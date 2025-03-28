@@ -194,22 +194,15 @@ body {
     max-width: 100%;
   }
 
-  .certificatepic {
-    position: relative;
-    height: 400px;
-    width: 300px;
-    border-radius: 20px; 
-    overflow-x: hidden;
-    overflow-y: hidden;
-    float: left;
-    margin-left: 0;
-    max-width: 100%;
-    top: 100px;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    z-index: -1;
-  }
+  h1 {
+  font-family: "poppins";
+  font-size: 1.3em;
+  font-weight: bold;
+  color: white;
+  margin-top: 80px;
+  margin-left: 40px;
+  z-index: 5;
+}
 
   .image-container {
     border: 10px solid transparent; /* Border around the image */
