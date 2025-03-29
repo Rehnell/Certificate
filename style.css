@@ -137,7 +137,6 @@ body {
 .header .menu-btn:checked ~ .menu {
   display: block;
   height: 500px;
-  background-color: black;
 }
 .header .menu-btn:checked ~ .menu-icon .navicon {
   background: transparent;
