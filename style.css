@@ -137,7 +137,7 @@ body {
 .header .menu-btn:checked ~ .menu {
   display: block;
   height: 100%;
-  width: 100%
+  width: 100%;
   background-color: black;
 }
 .header .menu-btn:checked ~ .menu-icon .navicon {
