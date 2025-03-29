@@ -135,7 +135,8 @@ body {
   display: none;
 }
 .header .menu-btn:checked ~ .menu {
-  max-height: 240px;
+  display: block;
+  max-height: 500px;
 }
 .header .menu-btn:checked ~ .menu-icon .navicon {
   background: transparent;
